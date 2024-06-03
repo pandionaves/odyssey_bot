@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 from discord import Intents, Client, Message
 from responces import get_response
 from typing import Union
-from typing import Union
 
 from fastapi import FastAPI
 
