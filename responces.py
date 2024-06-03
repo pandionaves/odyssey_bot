@@ -5,5 +5,3 @@ def get_response(user_input: str) -> str:
 
     if '!testcode' in lowered:
         return 'This message indicates the bot is running.'
-
-    
